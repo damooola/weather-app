@@ -10,11 +10,11 @@ A simple Flutter weather application that shows current weather conditions with 
 
 ## App Demo
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/damooola/weather-app/raw/main/assets/weather_app_gif.gif"
        alt="Weather App Demo"
-       width="300"
-       height="600"/>
+       width="250"
+       height="450"/>
 </p>
 
 ## Requirements
