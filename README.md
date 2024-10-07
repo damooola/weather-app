@@ -10,7 +10,7 @@ A simple Flutter weather application that shows current weather conditions with 
 
 ## Screenshots
 
-[assets/weather_app_gif.gif]
+assets/weather_app_gif.gif
 
 ## Requirements
 
@@ -96,4 +96,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Weather animations from [LottieFiles](https://lottiefiles.com/)
-- This project is based on [Minimal Weather App] by [Mitch Koko]. You can find     the original tutorial [here](https://youtu.be/yLtpMqvMgdY?si=Ax9qaewb3fwYEvPH).
+- This project is based on Minimal Weather App by Mitch Koko. You can find     the original tutorial [here](https://youtu.be/yLtpMqvMgdY?si=Ax9qaewb3fwYEvPH).
