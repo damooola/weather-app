@@ -10,7 +10,7 @@ A simple Flutter weather application that shows current weather conditions with 
 
 ## App Demo
 
-<https://github.com/damooola/weather-app/blob/main/assets/weather_app_gif.gif>
+![Weather App Demo](https://github.com/damooola/weather-app/raw/main/assets/weather_app_gif.gif)
 
 ## Requirements
 
