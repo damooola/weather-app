@@ -8,10 +8,9 @@ A simple Flutter weather application that shows current weather conditions with 
 - 🌡️ Displays current temperature
 - ☁️ Shows weather conditions with animated illustrations
 
-## Screenshots
+## App Demo
 
-(<https://github.com/damooola/weather-app/blob/main/assets/weather_app_gif.gif>
-)
+<https://github.com/damooola/weather-app/blob/main/assets/weather_app_gif.gif>
 
 ## Requirements
 
